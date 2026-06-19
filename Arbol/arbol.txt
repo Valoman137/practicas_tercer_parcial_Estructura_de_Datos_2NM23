@@ -1,0 +1,6 @@
+VALORES (preorder)
+7
+3
+2
+6
+9
