@@ -8,16 +8,22 @@ Este repositorio contiene las prácticas realizadas para el **Tercer Parcial** d
 
 *Carpetas y prácticas incluidas:*
 
-- [cite_start]📁 **Archivos** Contiene las implementaciones para escribir y leer datos (básicos, arreglos, arreglos creados y ADT) en distintos formatos:
-  - [cite_start]Práctica 11: Archivos CSV 
-  - [cite_start]Práctica 1: Archivos XML 
-  - [cite_start]Práctica 2: Archivos TXT 
-  - [cite_start]Práctica 3: Archivos JSON 
+- 📁 **Archivos** Contiene las implementaciones para escribir y leer datos (en formatos TXT, CSV, XML y JSON) aplicados a los resultados y estructuras de las siguientes prácticas:
+  - 📂 **Primer parcial**
+    - Práctica 6 (Calculadora con herencia y sobreescritura)
+    - Práctica 13 (Nuevo tipo de dato con acceso por punteros)
+    - Práctica 15 (Recursividad - Fractales)
+  - 📂 **Segundo parcial**
+    - Práctica 6 (Manejo de Pila Dinámica)
+    - Práctica 7 (Manejo de Cola Dinámica)
+    - Práctica 7Bis (Manejo de Lista Dinámica)
+    - Práctica 17 (Algoritmo de ordenamiento indirecto: Merge Sort)
+    - Práctica 18 (Algoritmo de ordenamiento indirecto: Quick Sort)
 
-- [cite_start]📁 **Grafo, Digrafo y Arbol** Un proyecto integrador que contiene en un solo código las implementaciones correspondientes a:
-  - [cite_start]Práctica 5: Grafos 
-  - [cite_start]Práctica 6: Digrafos 
-  - [cite_start]Práctica 7: Árboles 
+- 📁 **Grafo, Digrafo y Arbol** Un proyecto integrador que contiene en un solo código las implementaciones correspondientes a:
+  - Grafos
+  - Digrafos
+  - Árboles
 
 ---
 
@@ -30,9 +36,13 @@ El propósito del repositorio es documentar el proceso de aprendizaje y entregar
 
 ## Autores
 
+* *Cortés García Naomi Joselyn*
 * *Loera Jimenez Emerson*
 * *Tellez Guerrero Jose Santiago*
-* *Miguel Oswaldo Sierra Capetillo* Estudiantes de la UPIICSA del IPN  
+* *Miguel Oswaldo Sierra Capetillo* 
+
+
+Estudiantes de la UPIICSA del IPN  
 Secuencia *2NM23* – Estructura de Datos
 
 ---
