@@ -1,0 +1,6 @@
+Nombre: Jesus
+Apellido Paterno: Pinacates
+Apellido Materno: Moreno
+Genero: Masculino
+Edad: 31
+------------------------

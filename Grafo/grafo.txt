@@ -1,5 +1,0 @@
-NODOS
-A
-B
-C
-ARISTAS

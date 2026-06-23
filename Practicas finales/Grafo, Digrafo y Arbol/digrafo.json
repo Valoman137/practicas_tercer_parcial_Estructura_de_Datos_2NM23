@@ -1,0 +1,58 @@
+{
+  "nodos": [
+    "A",
+    "B",
+    "C",
+    "D"
+  ],
+  "aristas": [
+    {
+      "origen": "A",
+      "destino": "B",
+      "distancia": {
+        "valor": 10,
+        "unidad": "cm"
+      },
+      "tiempo": {
+        "valor": 50,
+        "unidad": "s"
+      }
+    },
+    {
+      "origen": "B",
+      "destino": "C",
+      "distancia": {
+        "valor": 3,
+        "unidad": "cm"
+      },
+      "tiempo": {
+        "valor": 2,
+        "unidad": "min"
+      }
+    },
+    {
+      "origen": "C",
+      "destino": "D",
+      "distancia": {
+        "valor": 1,
+        "unidad": "cm"
+      },
+      "tiempo": {
+        "valor": 3,
+        "unidad": "min"
+      }
+    },
+    {
+      "origen": "D",
+      "destino": "A",
+      "distancia": {
+        "valor": 4,
+        "unidad": "cm"
+      },
+      "tiempo": {
+        "valor": 3,
+        "unidad": "min"
+      }
+    }
+  ]
+}
